@@ -1,0 +1,11 @@
+POLÍTICA DE SEGURIDAD - TECNOFÁBRICA
+Todos los operarios deben utilizar los elementos de
+protección personal definidos para su puesto.
+Antes de encender una máquina, el operario debe
+realizar una inspección visual.
+Si identifica una condición insegura, debe detener
+la operación e informar inmediatamente al supervisor.
+Ningún operario puede intervenir una máquina sin
+autorización.
+Todos los incidentes deben registrarse en el sistema
+de seguridad industrial.

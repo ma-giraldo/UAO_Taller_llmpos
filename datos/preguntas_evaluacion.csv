@@ -1,0 +1,9 @@
+id,pregunta,respuesta_esperada
+1,¿Cada cuánto se realiza mantenimiento preventivo?,Cada 30 días
+2,¿Cuál es el nivel mínimo de inventario?,100 unidades por referencia
+3,¿Cuál es el inventario de seguridad?,50 unidades por referencia
+4,¿Qué se hace ante una falla crítica?,Detener la máquina inmediatamente
+5,¿Quién autoriza la puesta en funcionamiento?,El supervisor de mantenimiento
+6,¿Qué hacer ante una condición insegura?,Detener la operación e informar al supervisor
+7,¿Quién verifica los movimientos de inventario?,El responsable de almacén
+8,¿Cuál es el salario del gerente?,No existe información suficiente

@@ -1,0 +1,11 @@
+POLÍTICA DE INVENTARIOS - TECNOFÁBRICA
+El nivel mínimo de inventario de materia prima es de
+100 unidades por referencia.
+Cuando el inventario disponible llega a 100 unidades,
+se debe generar una solicitud de reabastecimiento.
+El inventario de seguridad corresponde a 50 unidades
+por referencia.
+El responsable de almacén debe verificar diariamente
+los movimientos de inventario.
+Cada entrada y salida de materiales debe quedar
+registrada en el sistema.

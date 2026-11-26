@@ -1,0 +1,10 @@
+POLÍTICA DE MANTENIMIENTO - TECNOFÁBRICA
+La empresa realiza mantenimiento preventivo a todas
+las máquinas de producción cada 30 días.
+Cada intervención debe registrarse en el sistema interno.
+El registro debe incluir fecha, máquina, técnico
+responsable, actividades realizadas y observaciones.
+Cuando se identifica una falla crítica, la máquina
+debe detenerse inmediatamente.
+El supervisor de mantenimiento debe autorizar su
+puesta en funcionamiento.
